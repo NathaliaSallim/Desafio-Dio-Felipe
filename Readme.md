@@ -1,7 +1,7 @@
 
 # Classificador de Nível de Herói
  
-<img height="333.102" width="480" src="https://i.gifer.com/2cJr.gif"/>
+<img align="center" height="333.102" width="480" src="https://i.gifer.com/2cJr.gif">
 
 
 ### Entendendo o Desafio
@@ -41,6 +41,6 @@ Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
 
-<img align="center" alt="Skyrim-gif" height="333.102" width="480" frameBorder="0" allowFullScreen src="https://i.gifer.com/GrD.gif"/>
+<img align="center" alt="Skyrim-gif" height="333.102" width="480" frameBorder="0" allowFullScreen src="https://i.gifer.com/GrD.gif">
 
 
