@@ -1,7 +1,9 @@
 
 # Classificador de Nível de Herói
 
-<img align="center" alt="Skyrim-gif" height="333.102" width="480" frameBorder="0" allowFullScreen src="https://i.gifer.com/2cJr.gif">
+<div align="center">
+<img height="333.102" width="480" src="https://i.gifer.com/2cJr.gif"/>
+</div>
 
 ### Entendendo o Desafio
  
@@ -39,5 +41,7 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-<img align="center" alt="Skyrim-gif" height="333.102" width="480" frameBorder="0" allowFullScreen src="https://i.gifer.com/GrD.gif">
+<div>
+<img align="center" alt="Skyrim-gif" height="333.102" width="480" frameBorder="0" allowFullScreen src="https://i.gifer.com/GrD.gif"/>
+</div>
 
